@@ -1,6 +1,7 @@
 ## Find your avd file from 
-
+'''
 C:\Users\your-user-name\.android\avd
+'''
 
 ## avdmanager 
 https://developer.android.com/studio/command-line/avdmanager
