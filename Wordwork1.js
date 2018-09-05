@@ -150,6 +150,7 @@ export default class Wordwork1 extends Component {
     _renderMeaningItem = ({ item, index }) => {
         // has key: 'defs', means spelling corrrect
         if (item.hasOwnProperty('defs')) {
+            alert('Spelling correct. well done');
             return (
                 <ScrollView>
                     {
