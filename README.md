@@ -22,8 +22,10 @@ Yarn vs npm: Everything You Need to Know
 [https://www.sitepoint.com/yarn-vs-npm/](https://www.sitepoint.com/yarn-vs-npm/)
 
 
+
 ## To get a release build
-Generating Signed APK (android/app/build/outputs/apk/app-release.apk)
+### Generating Signed APK (android/app/build/outputs/apk/app-release.apk)
+
 https://facebook.github.io/react-native/docs/signed-apk-android.html
 
-Happy nodeeing :+1: Thanks to everyone :+1:
+### Happy nodeeing :+1: Thanks to everyone :+1:
