@@ -21,4 +21,9 @@ Yarn vs npm - which Node package manager to use in 2018?
 Yarn vs npm: Everything You Need to Know
 [https://www.sitepoint.com/yarn-vs-npm/](https://www.sitepoint.com/yarn-vs-npm/)
 
-Happy nodeeing :+1:
+
+## To get a release build
+Generating Signed APK (android/app/build/outputs/apk/app-release.apk)
+https://facebook.github.io/react-native/docs/signed-apk-android.html
+
+Happy nodeeing :+1: Thanks to everyone :+1:
